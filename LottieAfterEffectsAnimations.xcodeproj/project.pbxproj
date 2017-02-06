@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		630F3DA2F8DB9FC435D0A61F /* Pods_LottieAfterEffectsAnimationsUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E432EC37986B97641A076C1A /* Pods_LottieAfterEffectsAnimationsUITests.framework */; };
+		7BC75853C5CCA3A040DB89B5 /* Pods_LottieAfterEffectsAnimations.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C5236D04563B45B1C4E221E /* Pods_LottieAfterEffectsAnimations.framework */; };
 		882AC6331E48F1A200E37ABA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882AC6321E48F1A200E37ABA /* AppDelegate.swift */; };
 		882AC6351E48F1A200E37ABA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882AC6341E48F1A200E37ABA /* ViewController.swift */; };
 		882AC6381E48F1A200E37ABA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 882AC6361E48F1A200E37ABA /* Main.storyboard */; };
@@ -14,6 +16,11 @@
 		882AC63D1E48F1A200E37ABA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 882AC63B1E48F1A200E37ABA /* LaunchScreen.storyboard */; };
 		882AC6481E48F1A200E37ABA /* LottieAfterEffectsAnimationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882AC6471E48F1A200E37ABA /* LottieAfterEffectsAnimationsTests.swift */; };
 		882AC6531E48F1A200E37ABA /* LottieAfterEffectsAnimationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 882AC6521E48F1A200E37ABA /* LottieAfterEffectsAnimationsUITests.swift */; };
+		882F3E99F379DA1B24C3A6FB /* Pods_LottieAfterEffectsAnimationsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63FBD2400E350A89C99850A1 /* Pods_LottieAfterEffectsAnimationsTests.framework */; };
+		884868061E48FEB700B7AF63 /* LottieLogo1.json in Resources */ = {isa = PBXBuildFile; fileRef = 884868051E48FEB700B7AF63 /* LottieLogo1.json */; };
+		8848682C1E49082E00B7AF63 /* Red_Box.json in Resources */ = {isa = PBXBuildFile; fileRef = 8848682B1E49082E00B7AF63 /* Red_Box.json */; };
+		8848682E1E4914DC00B7AF63 /* Livio_Play.json in Resources */ = {isa = PBXBuildFile; fileRef = 8848682D1E4914DC00B7AF63 /* Livio_Play.json */; };
+		88524D571E49220800C89553 /* Livio_Play_v2.json in Resources */ = {isa = PBXBuildFile; fileRef = 88524D561E49220800C89553 /* Livio_Play_v2.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B3D031EA1CBB11DE9395D2B /* Pods-LottieAfterEffectsAnimations.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimations.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimations/Pods-LottieAfterEffectsAnimations.debug.xcconfig"; sourceTree = "<group>"; };
+		13F5F6A3D55D4217A8C9A974 /* Pods-LottieAfterEffectsAnimationsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimationsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsTests/Pods-LottieAfterEffectsAnimationsTests.debug.xcconfig"; sourceTree = "<group>"; };
+		1512D231B850A5FAF0891F1E /* Pods-LottieAfterEffectsAnimations.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimations.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimations/Pods-LottieAfterEffectsAnimations.release.xcconfig"; sourceTree = "<group>"; };
+		2A7B432B0B6A965DEBC0470E /* Pods-LottieAfterEffectsAnimationsUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimationsUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsUITests/Pods-LottieAfterEffectsAnimationsUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		63FBD2400E350A89C99850A1 /* Pods_LottieAfterEffectsAnimationsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAfterEffectsAnimationsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		668A832B32AFE63122946134 /* Pods-LottieAfterEffectsAnimationsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimationsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsTests/Pods-LottieAfterEffectsAnimationsTests.release.xcconfig"; sourceTree = "<group>"; };
 		882AC62F1E48F1A200E37ABA /* LottieAfterEffectsAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottieAfterEffectsAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		882AC6321E48F1A200E37ABA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		882AC6341E48F1A200E37ABA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +60,13 @@
 		882AC64E1E48F1A200E37ABA /* LottieAfterEffectsAnimationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LottieAfterEffectsAnimationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		882AC6521E48F1A200E37ABA /* LottieAfterEffectsAnimationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieAfterEffectsAnimationsUITests.swift; sourceTree = "<group>"; };
 		882AC6541E48F1A200E37ABA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		884868051E48FEB700B7AF63 /* LottieLogo1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = LottieLogo1.json; path = Assets.xcassets/LottieLogo1.dataset/LottieLogo1.json; sourceTree = "<group>"; };
+		8848682B1E49082E00B7AF63 /* Red_Box.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Red_Box.json; sourceTree = "<group>"; };
+		8848682D1E4914DC00B7AF63 /* Livio_Play.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Livio_Play.json; sourceTree = "<group>"; };
+		88524D561E49220800C89553 /* Livio_Play_v2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Livio_Play_v2.json; sourceTree = "<group>"; };
+		9C5236D04563B45B1C4E221E /* Pods_LottieAfterEffectsAnimations.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAfterEffectsAnimations.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B80108B2F20498D642F3D846 /* Pods-LottieAfterEffectsAnimationsUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAfterEffectsAnimationsUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsUITests/Pods-LottieAfterEffectsAnimationsUITests.release.xcconfig"; sourceTree = "<group>"; };
+		E432EC37986B97641A076C1A /* Pods_LottieAfterEffectsAnimationsUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAfterEffectsAnimationsUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BC75853C5CCA3A040DB89B5 /* Pods_LottieAfterEffectsAnimations.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				882F3E99F379DA1B24C3A6FB /* Pods_LottieAfterEffectsAnimationsTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				630F3DA2F8DB9FC435D0A61F /* Pods_LottieAfterEffectsAnimationsUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +104,8 @@
 				882AC6461E48F1A200E37ABA /* LottieAfterEffectsAnimationsTests */,
 				882AC6511E48F1A200E37ABA /* LottieAfterEffectsAnimationsUITests */,
 				882AC6301E48F1A200E37ABA /* Products */,
+				8CAA384B8DFE39ACF696FBD6 /* Pods */,
+				D9E4A41EAD5FAE8FFBF7A5D9 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +122,7 @@
 		882AC6311E48F1A200E37ABA /* LottieAfterEffectsAnimations */ = {
 			isa = PBXGroup;
 			children = (
+				8848680B1E49024500B7AF63 /* JSON */,
 				882AC6321E48F1A200E37ABA /* AppDelegate.swift */,
 				882AC6341E48F1A200E37ABA /* ViewController.swift */,
 				882AC6361E48F1A200E37ABA /* Main.storyboard */,
@@ -125,6 +151,40 @@
 			path = LottieAfterEffectsAnimationsUITests;
 			sourceTree = "<group>";
 		};
+		8848680B1E49024500B7AF63 /* JSON */ = {
+			isa = PBXGroup;
+			children = (
+				8848682D1E4914DC00B7AF63 /* Livio_Play.json */,
+				8848682B1E49082E00B7AF63 /* Red_Box.json */,
+				884868051E48FEB700B7AF63 /* LottieLogo1.json */,
+				88524D561E49220800C89553 /* Livio_Play_v2.json */,
+			);
+			name = JSON;
+			sourceTree = "<group>";
+		};
+		8CAA384B8DFE39ACF696FBD6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0B3D031EA1CBB11DE9395D2B /* Pods-LottieAfterEffectsAnimations.debug.xcconfig */,
+				1512D231B850A5FAF0891F1E /* Pods-LottieAfterEffectsAnimations.release.xcconfig */,
+				13F5F6A3D55D4217A8C9A974 /* Pods-LottieAfterEffectsAnimationsTests.debug.xcconfig */,
+				668A832B32AFE63122946134 /* Pods-LottieAfterEffectsAnimationsTests.release.xcconfig */,
+				2A7B432B0B6A965DEBC0470E /* Pods-LottieAfterEffectsAnimationsUITests.debug.xcconfig */,
+				B80108B2F20498D642F3D846 /* Pods-LottieAfterEffectsAnimationsUITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D9E4A41EAD5FAE8FFBF7A5D9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9C5236D04563B45B1C4E221E /* Pods_LottieAfterEffectsAnimations.framework */,
+				63FBD2400E350A89C99850A1 /* Pods_LottieAfterEffectsAnimationsTests.framework */,
+				E432EC37986B97641A076C1A /* Pods_LottieAfterEffectsAnimationsUITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +192,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 882AC6571E48F1A200E37ABA /* Build configuration list for PBXNativeTarget "LottieAfterEffectsAnimations" */;
 			buildPhases = (
+				BEA3E19D648E6D6D2D5E97BC /* [CP] Check Pods Manifest.lock */,
 				882AC62B1E48F1A200E37ABA /* Sources */,
 				882AC62C1E48F1A200E37ABA /* Frameworks */,
 				882AC62D1E48F1A200E37ABA /* Resources */,
+				2A0E0EEFFB8D22D75241C460 /* [CP] Embed Pods Frameworks */,
+				6CA552F877F58734F367473C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +212,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 882AC65A1E48F1A200E37ABA /* Build configuration list for PBXNativeTarget "LottieAfterEffectsAnimationsTests" */;
 			buildPhases = (
+				FFBE0665598084CC0D8E674D /* [CP] Check Pods Manifest.lock */,
 				882AC63F1E48F1A200E37ABA /* Sources */,
 				882AC6401E48F1A200E37ABA /* Frameworks */,
 				882AC6411E48F1A200E37ABA /* Resources */,
+				F3EEAF0B09F7A5A3AF78F528 /* [CP] Embed Pods Frameworks */,
+				52D27B4640E8CEF8F5AEBFF0 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +233,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 882AC65D1E48F1A200E37ABA /* Build configuration list for PBXNativeTarget "LottieAfterEffectsAnimationsUITests" */;
 			buildPhases = (
+				D73765C42F192C54C126214B /* [CP] Check Pods Manifest.lock */,
 				882AC64A1E48F1A200E37ABA /* Sources */,
 				882AC64B1E48F1A200E37ABA /* Frameworks */,
 				882AC64C1E48F1A200E37ABA /* Resources */,
+				C16578A4AD41451D9D506080 /* [CP] Embed Pods Frameworks */,
+				CB9293BCDAC69F759A7ED346 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -236,8 +305,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				882AC63D1E48F1A200E37ABA /* LaunchScreen.storyboard in Resources */,
+				8848682C1E49082E00B7AF63 /* Red_Box.json in Resources */,
 				882AC63A1E48F1A200E37ABA /* Assets.xcassets in Resources */,
+				8848682E1E4914DC00B7AF63 /* Livio_Play.json in Resources */,
+				88524D571E49220800C89553 /* Livio_Play_v2.json in Resources */,
 				882AC6381E48F1A200E37ABA /* Main.storyboard in Resources */,
+				884868061E48FEB700B7AF63 /* LottieLogo1.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +329,144 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		2A0E0EEFFB8D22D75241C460 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimations/Pods-LottieAfterEffectsAnimations-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		52D27B4640E8CEF8F5AEBFF0 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsTests/Pods-LottieAfterEffectsAnimationsTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6CA552F877F58734F367473C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimations/Pods-LottieAfterEffectsAnimations-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		BEA3E19D648E6D6D2D5E97BC /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C16578A4AD41451D9D506080 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsUITests/Pods-LottieAfterEffectsAnimationsUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CB9293BCDAC69F759A7ED346 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsUITests/Pods-LottieAfterEffectsAnimationsUITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D73765C42F192C54C126214B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F3EEAF0B09F7A5A3AF78F528 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LottieAfterEffectsAnimationsTests/Pods-LottieAfterEffectsAnimationsTests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		FFBE0665598084CC0D8E674D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		882AC62B1E48F1A200E37ABA /* Sources */ = {
@@ -413,6 +624,7 @@
 		};
 		882AC6581E48F1A200E37ABA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0B3D031EA1CBB11DE9395D2B /* Pods-LottieAfterEffectsAnimations.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ACNGAAM3M7;
@@ -426,6 +638,7 @@
 		};
 		882AC6591E48F1A200E37ABA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1512D231B850A5FAF0891F1E /* Pods-LottieAfterEffectsAnimations.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = ACNGAAM3M7;
@@ -439,6 +652,7 @@
 		};
 		882AC65B1E48F1A200E37ABA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 13F5F6A3D55D4217A8C9A974 /* Pods-LottieAfterEffectsAnimationsTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -454,6 +668,7 @@
 		};
 		882AC65C1E48F1A200E37ABA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 668A832B32AFE63122946134 /* Pods-LottieAfterEffectsAnimationsTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -469,6 +684,7 @@
 		};
 		882AC65E1E48F1A200E37ABA /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2A7B432B0B6A965DEBC0470E /* Pods-LottieAfterEffectsAnimationsUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = ACNGAAM3M7;
@@ -483,6 +699,7 @@
 		};
 		882AC65F1E48F1A200E37ABA /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B80108B2F20498D642F3D846 /* Pods-LottieAfterEffectsAnimationsUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = ACNGAAM3M7;
@@ -514,6 +731,7 @@
 				882AC6591E48F1A200E37ABA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		882AC65A1E48F1A200E37ABA /* Build configuration list for PBXNativeTarget "LottieAfterEffectsAnimationsTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +740,7 @@
 				882AC65C1E48F1A200E37ABA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		882AC65D1E48F1A200E37ABA /* Build configuration list for PBXNativeTarget "LottieAfterEffectsAnimationsUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +749,7 @@
 				882AC65F1E48F1A200E37ABA /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

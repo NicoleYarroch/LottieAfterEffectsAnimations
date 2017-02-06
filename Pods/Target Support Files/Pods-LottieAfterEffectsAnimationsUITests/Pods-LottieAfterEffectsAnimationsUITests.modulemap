@@ -1,0 +1,6 @@
+framework module Pods_LottieAfterEffectsAnimationsUITests {
+  umbrella header "Pods-LottieAfterEffectsAnimationsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
